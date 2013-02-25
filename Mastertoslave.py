@@ -4,7 +4,7 @@
 #date:2013/02/22
 import os
 import time
-class server:
+class Server(object):
         def __init__(self):
                 pass
         def check_slave(self,port):
