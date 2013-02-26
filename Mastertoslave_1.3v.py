@@ -5,7 +5,8 @@
 #   m             s2  
 #  / \   ---->     \
 # s1  s2       m     s1
-#date:2013/02/25
+#date:2013/02/26
+#add:add some logicl relationship and some functions
 import os
 import time
 class Server(object):
